@@ -13,6 +13,6 @@ hosts文件地址：C:/Windows/System32/drivers/etc/hosts
 
 其次，要修改hosts文件的读写权限。操作可以根据这篇博客进行：https://blog.csdn.net/yuanlaijike/article/details/79668711
 
-完成上述操作之后，下载gitip.exe文件直接运行。
+完成上述操作之后，下载dist文件夹下的gitip.exe文件直接运行。
 tips:无法保证百分百成功率，如果不成功的话，尝试运行命令：ipconfig/flushdns刷新一下dns。
 
